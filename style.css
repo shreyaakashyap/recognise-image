@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(blue, pink, purple);
+}
+
+.heading {
+    font-weight: bold;
+    color: mediumorchid;
+}
+
+div {
+    color: midnightblue;
+}
+
+#camera {
+    border-style: dotted;
+}
